@@ -1,2 +1,2 @@
-# JavaScript_II_Challenge
+# Plotly_Challenge
 GA Tech Bootcamp Week 15 Homework
